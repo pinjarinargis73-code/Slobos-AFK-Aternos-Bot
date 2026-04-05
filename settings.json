@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "only90.aternos.me:33231"
-    "port": 33231,
+    "port": 33231
     "version": "",
     "try-creative": false
   },
